@@ -30,9 +30,3 @@ This repository contains logo assets for Argot.
 | <img src="logos/Icon%20Black.png" width="150"> | <img src="logos/Icon%20White.png" width="150"> |
 | [Download PNG](logos/Icon%20Black.png) \| [Download SVG](logos/Icon%20Black@2x.svg) | [Download PNG](logos/Icon%20White.png) \| [Download SVG](logos/Icon%20White@2x.svg) |
 
-## Logo
-
-| White |
-|-------|
-| <img src="logos/Logo%20White.png" width="200"> |
-| [Download PNG](logos/Logo%20White.png) \| [Download SVG](logos/Logo%20White@2x.svg) |
