@@ -2,6 +2,13 @@
 
 This repository contains logo assets for Argot.
 
+## Colors
+
+- Anthracite: ![#2B50AA](https://img.shields.io/badge/-.%20%20%20%20.-2D2725) #2D2725
+- Amber Medium: ![#D49B3F](https://img.shields.io/badge/-.%20%20%20%20.-D49B3F) #D49B3F
+- Amber Light: ![#F4C471](https://img.shields.io/badge/-.%20%20%20%20.-F4C471) #F4C471
+- Ecru: ![#EADBCA](https://img.shields.io/badge/-.%20%20%20%20.-EADBCA) #EADBCA
+
 ## Typography
 
 Argot uses the font "Karla" and its derivatives
