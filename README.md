@@ -2,6 +2,13 @@
 
 This repository contains logo assets for Argot.
 
+## Typography
+
+Argot uses the font "Karla" and its derivatives
+
+<img width="642" height="505" alt="image" src="https://github.com/user-attachments/assets/f1ba3d89-13a3-4ede-beca-87f5f5566a2e" />
+
+
 ## Avatar Circle
 
 | Black | White |
